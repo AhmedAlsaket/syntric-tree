@@ -1,2 +1,2 @@
 # syntric-tree
-#this the first project in github
+# this the first project in github
